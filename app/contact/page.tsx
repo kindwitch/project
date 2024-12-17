@@ -14,7 +14,7 @@ export default function contact() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          지식보물창고가 나타났습니다. 단순한 백과사전이 아닌 '끝판왕사전'
+          지식보물창고가 나타났습니다. 단순한 백과사전이 아닌 끝판왕사전
         </a>
         <img src="/dic.jpg" className="m-img " width={500} height={500} />
       </div>
